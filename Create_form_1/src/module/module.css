@@ -1,0 +1,28 @@
+.Maindiv{
+    display: flex;
+    width: 300px;
+    border-bottom: 1px solid gray;
+}
+.imgdiv{
+    width: 60px;
+    height: 60px;
+   padding-top:10px ;
+    justify-content: center;
+    align-items: center;
+ 
+}
+img{
+    margin: auto;
+    border-radius: 50px;
+}
+.namediv{
+
+    padding-top:10px ;
+    text-align: left;
+}
+h3{
+    margin: 0px;
+}
+P{
+    margin: 0px;
+}
